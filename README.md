@@ -51,7 +51,7 @@ Derma AI is a **Streamlit-based web application** that uses a trained deep learn
 
 The trained model `best_model.keras` is too large to upload to GitHub.  
 You can download it from Google Drive using this link:  
-[Download the model]()
+[Model.Download](https://drive.google.com/drive/folders/1d3yJFjVBFms14GNZqa9sqrTjm9SxcyaO?usp=sharing)
 
 Place the file in the project root directory before running the app.
 
